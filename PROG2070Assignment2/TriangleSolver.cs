@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace PROG2070Assignment2
 {
-    class TriangleSolver
+    public static class TriangleSolver
     {
-        string output;
+        
         public static string Analyze(int a, int b, int c)
         {
             if((a+b> c) && (a+c > b) && (b+c > a))
