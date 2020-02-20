@@ -1,0 +1,7 @@
+F:\Sem 4\Software Quality\hritikchawla\Assignment 2\Part 2\PROG2070Assignment2\PROG2070Assignment2\bin\Debug\PROG2070Assignment2.exe.config
+F:\Sem 4\Software Quality\hritikchawla\Assignment 2\Part 2\PROG2070Assignment2\PROG2070Assignment2\bin\Debug\PROG2070Assignment2.exe
+F:\Sem 4\Software Quality\hritikchawla\Assignment 2\Part 2\PROG2070Assignment2\PROG2070Assignment2\bin\Debug\PROG2070Assignment2.pdb
+F:\Sem 4\Software Quality\hritikchawla\Assignment 2\Part 2\PROG2070Assignment2\PROG2070Assignment2\obj\Debug\PROG2070Assignment2.csprojAssemblyReference.cache
+F:\Sem 4\Software Quality\hritikchawla\Assignment 2\Part 2\PROG2070Assignment2\PROG2070Assignment2\obj\Debug\PROG2070Assignment2.csproj.CoreCompileInputs.cache
+F:\Sem 4\Software Quality\hritikchawla\Assignment 2\Part 2\PROG2070Assignment2\PROG2070Assignment2\obj\Debug\PROG2070Assignment2.exe
+F:\Sem 4\Software Quality\hritikchawla\Assignment 2\Part 2\PROG2070Assignment2\PROG2070Assignment2\obj\Debug\PROG2070Assignment2.pdb
